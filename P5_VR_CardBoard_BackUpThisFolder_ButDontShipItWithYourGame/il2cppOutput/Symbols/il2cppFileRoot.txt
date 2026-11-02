@@ -1,0 +1,1 @@
+/home/rasek/P1_Introduccion_c-/P5_APK_CardBoard/Library/Bee/artifacts/Android/il2cppOutput/cpp
