@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Recuperador : MonoBehaviour
 {
-    public Transform jugador; // Arrastra el XR-Rig (Player) aquí en el Inspector
-    public GameObject[] objetosRecolectables; // Arrastra todos tus recolectables aquí en el Inspector
+    public Transform jugador;
+    public GameObject[] objetosRecolectables;
 
     public void OnPointerEnter()
     {
